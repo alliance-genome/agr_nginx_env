@@ -1,4 +1,4 @@
-FROM nginx:1.15.1
+FROM nginx
 
 WORKDIR /etc/nginx/conf.d
 
